@@ -6,6 +6,9 @@
 ## Objective
 Develop and deploy a machine learning model for predicting strokes. This model will be trained on relevant medical data to accurately identify individuals who might be at risk of experiencing a stroke. The goal is to create a robust and accurate prediction tool that can assist medical professionals in assessing stroke risk factors and making informed decisions about patient care. The deployed model should be integrated into existing healthcare systems to provide timely insights and support preventive measures, ultimately contributing to improved patient outcomes and healthcare management.
 
+## Medium Post
+[Click here](https://medium.com/@shahrullo/deploying-machine-learning-models-on-google-cloud-platform-from-development-to-production-with-74ce3dde543b) to read the full post
+
 ## How to run locally
 Follow these steps to set up and run the project on your local machine:
 1. First, create a virtual environment using Conda or any other tool of your choice. We recommend Conda for this project:\
